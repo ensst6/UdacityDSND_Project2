@@ -232,4 +232,4 @@ def plot_line_all(df, graph_title, y_title, countries, start_year=1990,\
                 yaxis = dict(title = y_title),
                 )
 
-  return graph, layouts
+  return graph, layout
