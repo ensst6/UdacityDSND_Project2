@@ -23,7 +23,7 @@ This is a project developed for the Udacity Data Scientist Nanodegree.
 ## Getting Started
 
 To use the web app, follow the link below:  
-[https://world-bank-energy-dashboard.herokuapp.com](https://world-bank-energy-dashboard.herokuapp.com)
+[https://worldbank-energy-dashboard.herokuapp.com](https://worldbank-energy-dashboard.herokuapp.com)
 
 
 Plotly tools allowing customization of each visualization will display above it.  
